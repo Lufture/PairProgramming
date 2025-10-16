@@ -1,4 +1,4 @@
-# Práctica Git/Github
+# Práctica Pair Programming
 
 Este repositorio contiene un proyecto colaborativo donde se trabajó utilizando y combinando técnicas de Pair Programming, tales como Ping Pong y Driver-Navigator. 
 
