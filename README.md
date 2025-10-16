@@ -11,6 +11,8 @@ Este repositorio contiene un proyecto colaborativo donde se trabajó utilizando 
 
 # Flujo de trabajo colaborativo
 
+En esta práctica, al ser el equipo de 3 integrantes, se combinaron al menos 2 técnicas de Pair  Programming: Driver-Navigator y Ping Pong Programming. esto nos ayudará a tener un trabajo más completo, documentado y organizado, al cada integrante tener un rol activo en la práctica.
+
 1. Un integrante actuará con el rol de Driver, codificará y diseñará código tomando como base el video de referencia de esta práctica.
 
 2. Luego, otra persona cumplirá el rol de navigator, supervisando, corrigiendo problemas y proponiendo mejoras al código escrito por el Driver.
