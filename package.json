@@ -10,6 +10,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^29.x.x"
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "typescript": "^5.9.3"
   }
 }
