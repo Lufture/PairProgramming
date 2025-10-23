@@ -2,13 +2,6 @@
 
 Este repositorio contiene un proyecto colaborativo donde se trabajó utilizando y combinando técnicas de Pair Programming, tales como Ping Pong y Driver-Navigator. 
 
-# Equipos Participantes y Contribuciones
-
-## Equipo:
-1. Fernando Martinez
-2. Marcos Gómez
-3. Emiliano Valencia
-
 # Flujo de trabajo colaborativo
 
 En esta práctica, al ser el equipo de 3 integrantes, se combinaron al menos 2 técnicas de Pair  Programming: Driver-Navigator y Ping Pong Programming. esto nos ayudará a tener un trabajo más completo, documentado y organizado, al cada integrante tener un rol activo en la práctica.
