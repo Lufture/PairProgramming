@@ -1,18 +1,22 @@
 {
-  "name": "jstodolist",
+  "name": "todo-typescript-fullstack",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Aplicación ToDo fullstack con TypeScript y MySQL",
+  "main": "dist/server.js",
   "scripts": {
-    "test": "jest"
+    "build": "tsc -p tsconfig.json",
+    "start": "node dist/server.js",
+    "dev": "tsc --watch",
+    "clean": "rm -rf dist"
   },
-  "keywords": [],
+  "keywords": ["todo", "typescript", "mysql", "fullstack"],
   "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "jest": "^29.7.0"
-  },
+  "license": "MIT",
   "dependencies": {
-    "typescript": "^5.9.3"
+    "mysql2": "^3.11.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "typescript": "^5.3.3"
   }
 }
