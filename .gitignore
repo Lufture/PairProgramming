@@ -1,39 +1,4 @@
 .gitignore
 /doc
 /node_modules
-docker-compose.yml
 /data
-# Dependencias
-node_modules/
-package-lock.json
-
-# Archivos compilados
-dist/
-
-# Datos de MySQL (Docker)
-data/
-sql/
-src/
-tsconfig.json
-# Logs
-*.log
-npm-debug.log*
-
-# Variables de entorno
-.env
-.env.local
-
-# IDEs
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# Sistema operativo
-.DS_Store
-Thumbs.db
-
-# Temporales
-*.tmp
-*.temp
