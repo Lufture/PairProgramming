@@ -5,9 +5,11 @@ services:
     container_name: mysql-container
     restart: always
     environment:
+
       MYSQL_ROOT_PASSWORD: 123456
-      MYSQL_DATABASE: todo_db
+      MYSQL_DATABASE: todo_do
     ports:
       - "3306:3306"
     volumes:
       - ./data:/var/lib/mysql
+
