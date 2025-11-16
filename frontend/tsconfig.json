@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "ESNext",
+    "strict": true,
+    "outDir": "./dist",
+    "rootDir": "./",
+    "allowJs": false,
+    "lib": ["DOM", "ES2020"],
+    "moduleResolution": "bundler"
+  }
+}

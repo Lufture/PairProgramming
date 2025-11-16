@@ -1,0 +1,11 @@
+{
+  "name": "todo-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "tsc --watch",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.0"
+  }
+}
